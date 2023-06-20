@@ -1,0 +1,21 @@
+DSS (Digital Signature Standard) is a standard for digital signatures that was developed by 
+the National Institute of Standards and Technology (NIST). It is a set of algorithms and 
+protocols that are used to create and verify digital signatures.The hash function is an
+ important element of the message authentication technique.  It gets various size input and 
+produces a fixed-size hash value. The hash function uses a  compression function repetitively 
+to generate n-bit output. In the digital signature pro cedure, the hash value uses private 
+and public keys for processing. Message authentica tion deals with the protection of messages 
+with integrity. It checks the identity of the  message sender and non-repudiation of the 
+origin. It checks whether the received mes sages are originated from the original sender. 
+It ensures that the content of the message  is not modified or altered. It also verifies 
+the sequence and timing of the messages. A  digital signature is an authentication technique 
+that is used to check the repudiation  from the sender's side or the receiver side. 
+The authentication of the digital signature is  done on two levels. The sender sends a signed message to the receiver. The receiver  compares the computed hash codes with the hash code he got. If both hashes match,  
+he/she can view the message. The most popular hash function is SHA (Secure Hash Algo rithm). SHAs are cryptographic algorithms that provide data integrity and authentica tion. TLS, SSL, SSH, and PGP applications use SHA. Unlike stream ciphers, 
+which create  a long output from a short one, hash functions take a long input and produce a short  output, called a hash value or digest. 
+Whitefield Diffie and Martin Hellman were the first to publish a public-key algorithm  that solved the problem of key agreement or key exchange. The algorithm is generally  referred to as Diffie–Hellman key exchange.
+ The main purpose of the algorithm is to ena ble two users to securely exchange a key which may then be used for subsequent en cryption of messages. The algorithm is limited only to the exchange of keys and is not  used for encryption or decryption of messages. 
+The Diffie–Hellman Key Exchange is a cryptographic protocol exchanging crypto graphic keys via a public network. It provides high security of key exchange between en tities in an insecure channel. The exchanged keys are used later for symmetric commu nication 
+using a popular symmetric cipher such as AES, Blowfish, ChaCha20, etc. DHKE is also called a key agreement protocol. The Diffie-Hellman Key Exchange protocol  can be implemented using discrete logarithms (classic DHKE algorithm) or elliptical curve cryptography 
+(ECDH algorithm). Below is a visualization of key exchange between  users
+Summerize the paragraph in 10 sentences

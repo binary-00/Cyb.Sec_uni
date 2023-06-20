@@ -1,0 +1,1 @@
+DSS (Digital Signature Standard) is a standard for digital signatures that was developed by the National Institute of Standards and Technology (NIST). It is a set of algorithms and protocols that are used to create and verify digital signatures.
